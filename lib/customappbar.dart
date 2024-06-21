@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:webapplication/freetrail.dart';
 import 'package:webapplication/navbutton.dart';
 import 'package:webapplication/signinbutton.dart';
 
